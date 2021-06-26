@@ -27,6 +27,7 @@ Run the project.
 ### Up-Coming Features:
 
 * Improved My Profile
+* Web Support
 
 ### Libraries & Tools Used
 
